@@ -2,3 +2,6 @@ Hello World!
 mainブランチでhoge.txt に追記
 featureブランチでhoge.txtに追記
   
+
+# hogera 
+ほげら
